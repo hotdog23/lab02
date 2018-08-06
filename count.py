@@ -8,7 +8,7 @@
 '''
 
 
-def count_char(text):
+def count_char(text): 
 	chardict={}
 	for ch in text:
 		if ch in chardict:
